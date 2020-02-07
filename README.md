@@ -8,8 +8,8 @@ The project is about two types of GAN :
 - Implement DC-GAN using Binary Cross Entropy loss
 - Apply Batch Normalization in DC-GAN
 - Self-Attention module implementation for SA-GAN
-- Implement wasserstein loss in SA-GAN
-- Apply Frechet Inception Distance (FID) as an evaluation metric
+- Implement wasserstein loss and apply Spectral Normalization in SA-GAN
+- Apply Frechet Inception Distance (FID) as an evaluation metric for both DC-GAN and SA-GAN
 - Use `cifar-10` dataset
 
 
